@@ -1,0 +1,18 @@
+.homeWrapper {
+    background-image: url("../components/img/photo-1512295767273-ac109ac3acfa\ 1.png");
+    background-size: 100% 50%;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+.homeWrapper h2 {
+    font-size: 3rem;
+    width: 30%;
+    padding-top: 40%;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+}
+
+.homeWrapper>.button {
+    margin-left: 3rem;
+}

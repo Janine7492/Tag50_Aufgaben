@@ -1,0 +1,16 @@
+.navigationWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 3rem;
+}
+
+.navigationWrapper ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar {
+    color: #0D4625;
+    margin-right: 2rem;
+    font-size: 1.2rem;
+}

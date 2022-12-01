@@ -1,0 +1,16 @@
+.blogItemWrapper {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.blogItemWrapper img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.blogItemWrapper h2 {
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
